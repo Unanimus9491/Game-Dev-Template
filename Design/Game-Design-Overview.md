@@ -14,3 +14,9 @@ Give a very high-level general overview of your game. This is also known as your
 ## [Levels](Levels/Levels-Overview.md)
 
 ## [Marketing](Marketing/Market-Research.md)
+
+## [Audio](Audio/Sound-Design.md)
+
+## [Interface](Interface/Interface-Overview.md)
+
+## [Technical Specifications](Tech-Specs/Tech-Specs-Overview.md)
