@@ -1,5 +1,5 @@
 # Characters
-## Main Character
+## [Main Character](Example-Main-Character/Character-Profile.md)
 Do you have one? Describe.
 
 ## Travelling Partner / Assistant AI
