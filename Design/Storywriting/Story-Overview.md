@@ -1,3 +1,3 @@
-## [Characters](/Design/Characters/Character-Overview.md)
+## [Characters](/Design/Characters/Character.md)
 
-## [World Building](World-Building/WB-Overview.md)
+## [World Building](World-Building/WB.md)
